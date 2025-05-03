@@ -119,7 +119,7 @@ The application provides the following API endpoints:
 
 ## Credits
 
-Developed by [Your Name/Company]
+Developed by Mark Rances
 
 ## License
 
